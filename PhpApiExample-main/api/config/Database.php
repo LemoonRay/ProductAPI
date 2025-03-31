@@ -10,7 +10,7 @@ class Database {
 
     private function __construct() {
         $this->host = "localhost";
-        $this->databaseName = "PRODUCT";
+        $this->databaseName = "store";
         $this->userName = "root";
         $this->password = "";
 
